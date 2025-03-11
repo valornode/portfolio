@@ -175,12 +175,14 @@ const workExperiences = {
     {
       role: "Tier II Engineer",
       company: "Essential Network Technologies",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      companylogo: require("./assets/images/essential_network_technologies_logo.jpg"),
+      date: "October 2024 – Present",
+      desc: "Providing top-tier network management for our internal network and clients.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Targeted my focus on learning our main products, Fortinet and Extreme.",
+        "Designed and deployed successful large network build outs.",
+        "Configured large SD-WAN networks spanning across multiple locations.",
+        "The go to for escalations from Support Engineers for networking, VOIP, wireless and much more.
       ]
     },
     {
