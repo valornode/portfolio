@@ -249,7 +249,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Some of my top achievements and certifications that I have accomplished through my years of experience and learning.",
 
   achievementsCards: [
     {
@@ -294,29 +294,66 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Extreme Networks",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
+          name: "Certified Associate - Extreme Fabric Connect",
+          url: "https://www.credly.com/badges/5a6537c5-fe12-4984-a136-4316def1828c/linked_in_profile"
+        },
+        {
+          name: "Certified Associate - Extreme Switching",
+          url: "https://www.credly.com/badges/cb07434e-5b8c-485c-914b-fe0ac940342c/linked_in_profile"
+        },
+        {
+          name: "Certified Associate - ExtremeCloud IQ",
+          url: "https://www.credly.com/badges/2ff8a1e0-e5ad-4d41-a248-e1e29b449960/linked_in_profile"
+        },
+        {
+          name: "Certified Associate - Site Engine",
+          url: "https://www.credly.com/badges/60922aa8-4d68-48a7-bb68-db2e0a7c42ae/linked_in_profile"
+        },
+       {
+          name: "Certified Associate - ExtremeControl",
+          url: "https://www.credly.com/badges/548252bb-3d6c-4824-8420-c25850fcbde0/linked_in_profile"
+        },
+        {
+          name: "Certified Associate - Network Security Basics",
+          url: "https://www.credly.com/badges/9c893954-b8dc-43ad-9787-9048d541bcb7/linked_in_profile"
+        },
+        {
+          name: "Certified Associate - Solutions Design",
+          url: "https://www.credly.com/badges/33a76e1c-8fef-405d-b3f8-0f7fbb9bf40a/linked_in_profile"
+        },
+        {
+          name: "Networks Associate - Building Scalable and Mission Critical Networks",
+          url: "https://www.credly.com/badges/0ea9d5a2-bb08-49fd-afe8-e1b957f26c9f/linked_in_profile"
+        },
+        {
+          name: "Networks Associate - Building Secure and Robust Wireless Networks",
+          url: "https://www.credly.com/badges/c561e40d-e934-411e-ab27-212a08dda1f7/linked_in_profile"
+        },
+       {
+          name: "Networks Associate - Introduction to Future Networking",
+          url: "https://www.credly.com/badges/7572c7e4-b5cb-4977-b1cb-39006bc514aa/linked_in_profile"
+        }        
+        
       ]
     },
 
     {
-      title: "PWA Web App Developer",
+      title: "Sophia Learning",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Introduction to Networking", url: "https://www.credly.com/badges/29f25374-0553-4426-b145-2e18bdac17ed/linked_in_profile"},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Introduction to Information Technology",
+          url: "https://www.credly.com/badges/fa6d958a-4baf-411c-af3b-b2160a88d170/linked_in_profile"
         }
       ]
     }
