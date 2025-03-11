@@ -264,7 +264,7 @@ const achievementSection = {
       title: "Fortinet",
       subtitle:
         "5+ certifications completed through the Fortinet Training Institute",
-      image: require("./assets/images/fortinet.webp"),
+      image: require("./assets/images/fortinet.png"),
       imageAlt: "Fortinet Logo",
       footerLink: [
         {
@@ -305,7 +305,7 @@ const achievementSection = {
       title: "Extreme Networks",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/extreme.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
@@ -355,7 +355,7 @@ const achievementSection = {
     {
       title: "Sophia Learning",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/sophia.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Introduction to Networking", url: "https://www.credly.com/badges/29f25374-0553-4426-b145-2e18bdac17ed/linked_in_profile"},
