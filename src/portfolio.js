@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Network Engineer 🚀 with experience in building networks consisting of Fortinet, Extreme Networks, HP Aruba, Dell, UniFi and other solutions."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -127,7 +127,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Western Governor's University",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/wgu.png"),
       subHeader: "Bachelor of Science in Network Engineering & Security",
       duration: "February 2025 - Current",
       desc: "Participated in the research of XXX and published 3 papers.",
@@ -137,7 +137,7 @@ const educationInfo = {
     },
     {
       schoolName: "Southern New Hampshire Univeristy",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/snhu.png"),
       subHeader: "Associate of Science in Cybersecurity",
       duration: "February 2022 - Jan 2025",
       desc: "",
@@ -190,8 +190,15 @@ const workExperiences = {
       company: "Valor Holdings",
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Started from the ground up, building my own cloud compute/datacenter company.",
+      descBullets: [
+        "Provided excellent customer service for nearly 750 clients.",
+        "Implemented key systems for our infrastructure, including billing, management, remote access, and much more.",
+        "Managed all of our datacenters, which included deploying networking equipment, servers for hypervisors and virtualization, and remote backup solutions.",
+        "Managed our colocation facilities, which included maintaining privacy and safe management of client equipment, such as firewalls/routers, switches and servers.",
+      ]
     }
+    
 //    {
 //      role: "",
 //      company: "Airbnb",
@@ -382,7 +389,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -401,7 +408,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -414,7 +421,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
@@ -423,25 +430,24 @@ const resumeSection = {
   subtitle: "Feel free to download my resume",
 
   // Please Provide with Your Podcast embeded Link
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  email_address: "contact@iambrayden.net"
 };
 
 // Twitter Section
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
