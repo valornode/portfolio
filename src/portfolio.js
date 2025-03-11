@@ -183,7 +183,7 @@ const workExperiences = {
         "Targeted my focus on learning our main products, Fortinet and Extreme.",
         "Designed and deployed successful large network build outs.",
         "Configured large SD-WAN networks spanning across multiple locations.",
-        "The go to for escalations from Support Engineers for networking, VOIP, wireless and much more.
+        "The go to for escalations from Support Engineers for networking, VOIP, wireless and much more."
       ]
     },
     {
