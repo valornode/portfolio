@@ -54,7 +54,8 @@ const skillsSection = {
     emoji(
       "⚡ Configure networks utilizing BGP, SDWAN, VPN, MPLS, and other protocols."
     ),
-    emoji("⚡ Design, configure, deploy and manage both small and large networks, including routers, firewalls, switches, APs and servers."),
+    emoji("⚡ Design, configure, deploy and manage both small and large networks, including routers, firewalls, switches, APs and servers."
+    ),
     emoji(
       "⚡ Be the go-to guy for all networking related questions and concerns for multiple small and large clients."
     )
