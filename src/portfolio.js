@@ -132,8 +132,7 @@ const educationInfo = {
       duration: "February 2025 - Current",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Furthering my education by transferring my Associate degree from SNHU."
       ]
     },
     {
@@ -142,7 +141,7 @@ const educationInfo = {
       subHeader: "Associate of Science in Cybersecurity",
       duration: "February 2022 - Jan 2025",
       desc: "",
-      descBullets: ["Honor's Roll List for 2023, Accelerated my learning by taking extra classes"]
+      descBullets: ["Honor's Roll List for 2023"]
     }
   ]
 };
@@ -174,8 +173,8 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Tier II Engineer",
+      company: "Essential Network Technologies",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
