@@ -255,21 +255,41 @@ const achievementSection = {
     {
       title: "Fortinet",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "5+ certifications completed through the Fortinet Training Institute",
+      image: require("./assets/images/fortinet.webp"),
+      imageAlt: "Fortinet Logo",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          name: "Certified Associate Cybersecurity",
+          url: "https://www.credly.com/badges/81937534-fd17-45cb-9958-4af33107635e/linked_in_profile"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          name: "Certified Funddamentals Cybersecurity",
+          url: "https://www.credly.com/badges/686478a5-97fb-4367-bdf7-c728a53b3cc2/linked_in_profile"
         },
         {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "FortiGate 7.4 Operator",
+          url: "https://www.credly.com/badges/f9a291fc-1557-40f3-99b7-8daaa8e33623/linked_in_profile"
+        },
+        {
+          name: "Introduction to the Threat Landscape 2.0",
+          url: "https://www.credly.com/badges/87e6b038-29ae-4493-8ddd-a7b8f7480748/linked_in_profile"
+        },
+                {
+          name: "FortiGate 7.4 Administrator",
+          url: ""
+        },
+        {
+          name: "FortiManager 7.4 Administrator",
+          url: ""
+        },
+        {
+          name: "FortiAnalyzer 7.4 Analyst",
+          url: ""
+        },
+        {
+          name: "Azure Cloud Security 7.4 Administrator",
+          url: ""
         }
       ]
     },
