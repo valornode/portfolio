@@ -200,7 +200,7 @@ const workExperiences = {
     {
       role: "President",
       company: "Valor Holdings LLC (fka Civilized Hosting LLC)",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/valornode.png"),
       date: "April 2021 – November 2024",
       desc: "Started from the ground up, building my own cloud compute/datacenter company.",
       descBullets: [
@@ -221,7 +221,7 @@ const workExperiences = {
     {
       role: "SOC Anaylst",
       company: "Oracle/Cerner",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/oracle.png"),
       date: "October 2022 - November 2023",
       desc: "Gained insightful knowledge of the operations of a Security Operations Center.",
       descBullets: [
@@ -462,7 +462,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  email_address: "contact@iambrayden.net"
+  email_address: "me@iambrayden.net"
 };
 
 // Twitter Section
