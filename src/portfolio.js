@@ -296,7 +296,7 @@ const achievementSection = {
           url: "https://www.credly.com/badges/81937534-fd17-45cb-9958-4af33107635e/linked_in_profile"
         },
         {
-          name: "Certified Funddamentals Cybersecurity",
+          name: "Certified Fundamentals Cybersecurity",
           url: "https://www.credly.com/badges/686478a5-97fb-4367-bdf7-c728a53b3cc2/linked_in_profile"
         },
         {
