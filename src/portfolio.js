@@ -131,10 +131,10 @@ const educationInfo = {
       logo: require("./assets/images/wgu.png"),
       subHeader: "Bachelor of Science in Network Engineering & Security",
       duration: "February 2025 - Current",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Furthering my education by transferring my Associate degree from SNHU."
-      ]
+//      desc: "Participated in the research of XXX and published 3 papers.",
+//      descBullets: [
+//        "Furthering my education by transferring my Associate degree from SNHU."
+//      ]
     },
     {
       schoolName: "Southern New Hampshire Univeristy",
