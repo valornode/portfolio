@@ -216,8 +216,7 @@ const workExperiences = {
         "Drive innovation by evaluating and implementing new technologies to enhance service offerings.",
         "Lead large-scale network architecture projects, including BGP peering and advanced routing strategies."
       ]
-    }
-    
+    },
     {
       role: "SOC Anaylst",
       company: "Oracle/Cerner",
@@ -230,7 +229,8 @@ const workExperiences = {
         "Ensure compliance with Department of Defense security standards.",
         "Maintain overall security of a government top-secret classified datacenter facility.",
         "Develop, implement, and enforce security policies and procedures to protect classified information and assets in the datacenter."
-    }
+        ]
+      }
   ]
 };
 
