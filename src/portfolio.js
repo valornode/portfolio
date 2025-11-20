@@ -208,7 +208,7 @@ const workExperiences = {
         "Implemented key systems for our infrastructure, including billing, management, remote access, and much more.",
         "Managed all of our datacenters, which included deploying networking equipment, servers for hypervisors and virtualization, and remote backup solutions.",
         "Managed our colocation facilities, which included maintaining privacy and safe management of client equipment, such as firewalls/routers, switches and servers.",
-        "Managed all of our internal projects, which included 10+ datacenter build outs, including both the deployment of our entire network infrastructure and all of our bare metal servers."
+        "Managed all of our internal projects, which included 10+ datacenter build outs, including both the deployment of our entire network infrastructure and all of our bare metal servers.",
         "Manage vendor relationships, negotiate contracts, and oversee procurement of networking and server equipment.",
         "Develop and assist with the engineering budget, ensuring cost-effective resource allocation.",
         "Evaluate and integrate third-party solutions to enhance operational efficiency and service quality.",
@@ -328,7 +328,7 @@ const achievementSection = {
     {
       title: "Extreme Networks",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "10+ certifications completed through the Extreme Academy.",
       image: require("./assets/images/extreme.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
@@ -378,7 +378,7 @@ const achievementSection = {
 
     {
       title: "Sophia Learning",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      subtitle: "Completed multiple college credit transfer classes with Sophia Leaning.",
       image: require("./assets/images/sophia.png"),
       imageAlt: "PWA Logo",
       footerLink: [
