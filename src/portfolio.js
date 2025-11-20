@@ -383,10 +383,10 @@ const achievementSection = {
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Introduction to Networking", url: "https://www.credly.com/badges/29f25374-0553-4426-b145-2e18bdac17ed/linked_in_profile"},
-        {
-          name: "Introduction to Information Technology",
-          url: "https://www.credly.com/badges/fa6d958a-4baf-411c-af3b-b2160a88d170/linked_in_profile"
-        }
+        {name: "Introduction to Information Technology", url: "https://www.credly.com/badges/fa6d958a-4baf-411c-af3b-b2160a88d170/linked_in_profile"},
+        {name: "Personal Finance"},
+        {name: "Introdution to Nutrition"},
+        {name: "Human Biology"}
       ]
     }
   ],
