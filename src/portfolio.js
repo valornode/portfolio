@@ -35,7 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/valornode",
   linkedin: "https://www.linkedin.com/in/brayden-at-valor/",
-  gmail: "contact@iambrayden.net",
+  gmail: "me@iambrayden.net",
 //  gitlab: "https://gitlab.com/saadpasta",
 //  facebook: "https://www.facebook.com/saad.pasta7",
 //  medium: "https://medium.com/@saadpasta",
@@ -150,7 +150,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "FortiGate Routing/Switching", //Insert stack or technology you have experience in
