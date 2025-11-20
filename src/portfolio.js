@@ -132,9 +132,9 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Network Engineering & Security",
       duration: "February 2025 - Current",
 //      desc: "Participated in the research of XXX and published 3 papers.",
-//      descBullets: [
-//        "Furthering my education by transferring my Associate degree from SNHU."
-//      ]
+      descBullets: [
+        "Furthering my education by transferring my Associate degree from SNHU."
+      ]
     },
     {
       schoolName: "Southern New Hampshire Univeristy",
@@ -174,16 +174,17 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Tier II Engineer",
+      role: "Sr Network Engineer",
       company: "Essential Network Technologies",
       companylogo: require("./assets/images/essential_network_technologies_logo.jpg"),
-      date: "October 2024 – Present",
+      date: "October 2024 – April 2025",
       desc: "Providing top-tier network management for our internal network and clients.",
       descBullets: [
         "Targeted my focus on learning our main products, Fortinet and Extreme.",
         "Designed and deployed successful large network build outs.",
         "Configured large SD-WAN networks spanning across multiple locations.",
         "The go to for escalations from Support Engineers for networking, VOIP, wireless and much more."
+        "Acted as a Project Manager, working alongside Account Executives to maintain customer satisfaction in ongoing projects."
       ]
     },
     {
