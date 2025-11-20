@@ -199,7 +199,7 @@ const workExperiences = {
     },
     {
       role: "President",
-      company: "Valor Holdings LLC (fka Civilized Hosting LLC)",
+      company: "Valor Holdings LLC",
       companylogo: require("./assets/images/valornode.png"),
       date: "April 2021 – November 2024",
       desc: "Started from the ground up, building my own cloud compute/datacenter company.",
