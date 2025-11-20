@@ -183,31 +183,38 @@ const workExperiences = {
         "Targeted my focus on learning our main products, Fortinet and Extreme.",
         "Designed and deployed successful large network build outs.",
         "Configured large SD-WAN networks spanning across multiple locations.",
-        "The go to for escalations from Support Engineers for networking, VOIP, wireless and much more."
+        "The go to for escalations from Support Engineers for networking, VOIP, wireless and much more.",
         "Acted as a Project Manager, working alongside Account Executives to maintain customer satisfaction in ongoing projects."
       ]
     },
     {
       role: "President",
-      company: "Valor Holdings",
+      company: "Valor Holdings LLC (fka Civilized Hosting LLC)",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
+      date: "April 2021 – November 2024",
       desc: "Started from the ground up, building my own cloud compute/datacenter company.",
       descBullets: [
         "Provided excellent customer service for nearly 750 clients.",
         "Implemented key systems for our infrastructure, including billing, management, remote access, and much more.",
         "Managed all of our datacenters, which included deploying networking equipment, servers for hypervisors and virtualization, and remote backup solutions.",
         "Managed our colocation facilities, which included maintaining privacy and safe management of client equipment, such as firewalls/routers, switches and servers.",
+        "Managed all of our internal projects, which included 10+ datacenter build outs, including both the deployment of our entire network infrastructure and all of our bare metal servers."
       ]
     }
     
-//    {
-//      role: "",
-//      company: "Airbnb",
-//      companylogo: require("./assets/images/airbnbLogo.png"),
-//      date: "Jan 2015 – Sep 2015",
-//      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-//    }
+    {
+      role: "SOC Anaylst",
+      company: "Oracle/Cerner",
+      companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "October 2022 - November 2023",
+      desc: "Gained insightful knowledge of the operations of a Security Operations Center.",
+      descBullets: [
+        "Handle critical phone calls, responding promptly to inquiries and emergencies to maintain operational effectiveness.",
+        "Monitor and respond to a variety of alarms, taking necessary actions to safeguard personnel and property.",
+        "Ensure compliance with Department of Defense security standards.",
+        "Maintain overall security of a government top-secret classified datacenter facility.",
+        "Develop, implement, and enforce security policies and procedures to protect classified information and assets in the datacenter."
+    }
   ]
 };
 
