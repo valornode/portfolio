@@ -180,7 +180,17 @@ const workExperiences = {
       date: "October 2024 – April 2025",
       desc: "Providing top-tier network management for our internal network and clients.",
       descBullets: [
-        "Targeted my focus on learning our main products, Fortinet and Extreme.",
+        "Diagnose and resolve complex network issues, such as routing, switching and connectivity problems.",
+        "Perform regular network maintenance, including firmware upgrades, patching, and system backups.",
+        "Configure and deploy routers, switches, firewalls, IPSEC/SSL VPN tunnels.",
+        "Configure and deploy VLANs, SD-WAN, Switch Stacks, QoS and other network configurations.",
+        "Configure and maintain strict and descriptive Firewall policies to ensure client networks meet security standards.",
+        "Identify and mitigate potential vulnerabilities in network environments.",
+        "Design and maintain descriptive network diagrams and documentation for a multitude of various networks.",
+        "Tasked with managing our internal network, which consisted of Fortinet Firewalls and Extreme Networks Switching and Wireless.",
+        "Address higher-level issues, such as firewall policies, advanced routing (BGP/OSPF) and wireless network optimization.",
+        "Work with third-party providers to troubleshoot ISP or hosted services.",
+        "Analyze traffic patterns and recommend upgrades to accommodate future growth.",
         "Designed and deployed successful large network build outs.",
         "Configured large SD-WAN networks spanning across multiple locations.",
         "The go to for escalations from Support Engineers for networking, VOIP, wireless and much more.",
@@ -199,6 +209,12 @@ const workExperiences = {
         "Managed all of our datacenters, which included deploying networking equipment, servers for hypervisors and virtualization, and remote backup solutions.",
         "Managed our colocation facilities, which included maintaining privacy and safe management of client equipment, such as firewalls/routers, switches and servers.",
         "Managed all of our internal projects, which included 10+ datacenter build outs, including both the deployment of our entire network infrastructure and all of our bare metal servers."
+        "Manage vendor relationships, negotiate contracts, and oversee procurement of networking and server equipment.",
+        "Develop and assist with the engineering budget, ensuring cost-effective resource allocation.",
+        "Evaluate and integrate third-party solutions to enhance operational efficiency and service quality.",
+        "Lead and mentor engineering teams, fostering professional growth and technical excellence.",
+        "Drive innovation by evaluating and implementing new technologies to enhance service offerings.",
+        "Lead large-scale network architecture projects, including BGP peering and advanced routing strategies."
       ]
     }
     
